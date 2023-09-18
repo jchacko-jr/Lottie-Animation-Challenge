@@ -1,0 +1,4 @@
+Welcome to the "Lottie Animation Challenge" GitHub repository! This repository is dedicated to the creative and educational journey of recreating inspiring Lottie animations found on the internet using Adobe After Effects. Whether you're a seasoned motion graphics designer or a beginner looking to enhance your skills, this repository provides a daily challenge to spark your creativity and improve your animation skills.
+In this repository, you'll find a collection of Lottie animations sourced from various platforms, including websites, mobile apps, and social media. Each day, we present you with a new animation inspiration that we've found online. Your task is to recreate the animation as closely as possible using Adobe After Effects. This daily challenge will not only help you develop your animation skills but also inspire you to push your creative boundaries.
+
+
