@@ -4,4 +4,4 @@ where we embark on the exciting task of reimagining captivating Lottie animation
 
 | Date       | Inspiration | My Creation |
 | ---------- | -----------| -----------|
-| 2023-09-18 | Markdown   | Table      |
+| 2023-09-12 | https://lottiefiles.com/animations/delete-slash-XVTXR3CljS   | https://app.lottiefiles.com/animation/c343eb2a-16c8-451f-8377-e8d613e4ad35     |
