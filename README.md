@@ -6,3 +6,4 @@ where we embark on the exciting task of reimagining captivating Lottie animation
 | --------------------------------------| --------------------------------|--------------------------------------------------------------------------------------------------|
 | 2023-09-16 | https://lottiefiles.com/animations/bold-button-tcntsNclyr  | https://app.lottiefiles.com/animation/6cde3996-4c60-4690-8b89-189092dfb925  |
 | 2023-09-19| https://lottiefiles.com/animations/italic-button-2TBphhJpVK |https://app.lottiefiles.com/animation/48174922-4180-4a62-a4d0-80b3444ecaa0 |
+| 2023-09-19| https://lottiefiles.com/animations/delete-slash-XVTXR3CljS |https://app.lottiefiles.com/animation/c343eb2a-16c8-451f-8377-e8d613e4ad35 |
