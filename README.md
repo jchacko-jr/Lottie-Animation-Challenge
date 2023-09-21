@@ -5,3 +5,4 @@ where we embark on the exciting task of reimagining captivating Lottie animation
 | Date    | Inspiration | My Creation |
 | --------------------------------------| --------------------------------|--------------------------------------------------------------------------------------------------|
 | 2023-09-16 | https://lottiefiles.com/animations/bold-button-tcntsNclyr  | https://app.lottiefiles.com/animation/6cde3996-4c60-4690-8b89-189092dfb925  |
+| 2023-09-19| https://lottiefiles.com/animations/italic-button-2TBphhJpVK |https://app.lottiefiles.com/animation/48174922-4180-4a62-a4d0-80b3444ecaa0 |
